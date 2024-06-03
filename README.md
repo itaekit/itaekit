@@ -8,7 +8,8 @@
 - 리눅스마스터 2급 (2023.12.29 취득)
 
 ### Activities
-- 프로그래밍 서적 4권 베타 리뷰 참여 및 추천사 작성
+- 프로그래밍 서적 4권 베타 리더 참여 및 추천사 작성
+- 인프런 워밍업 클럽 스터디 1기 BE 수료 (우수러너 선정)
 
 ### Contacts
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://itaekit.tistory.com/)](https://itaekit.tistory.com/)
