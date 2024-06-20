@@ -1,7 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itaekit)](https://solved.ac/itaekit)
 
 ### Education
-- B.S. in Engineering (Major in Mechanical Enginerring and Minor in Electrical Engineering), 2014.03 ~ 2022.02
+- B.S. in Engineering (Major in Mechanical Engineering and Minor in Electrical Engineering), 2014.03 ~ 2022.02
 
 ### Certifications
 - SQLD (2023.12.15 취득)
