@@ -3,7 +3,7 @@
 
 ### Education
 - B.S. in Engineering (Major in Mechanical Engineering and Minor in Electrical Engineering), 2014.03 ~ 2022.02
-- NHN Academy Java Backend 7기 수료, 2024.07.01 ~ 2024.12.17
+- [NHN Academy Java Backend 7기](https://www.nhnacademy.com), 2024.07.01 ~ 2024.12.17
 
 ### Awards
 
