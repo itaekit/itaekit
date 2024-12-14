@@ -16,4 +16,5 @@
 - 인프런 워밍업 클럽 스터디 1기 BE 수료 (우수러너 선정)
 
 ### etc
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itaekit)](https://solved.ac/itaekit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaekit&layout=compact) <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itaekit&show=reviews&show_icons=true&theme=dracula) <br />
